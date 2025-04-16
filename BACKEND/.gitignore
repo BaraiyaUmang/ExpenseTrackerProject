@@ -1,0 +1,4 @@
+node_modules
+.env
+PORT=8000
+MONGO_URI=mongodb+srv://user:uyA5xnkSXGdeYMsc@expensetracker.flzvv.mongodb.net/?retryWrites=true&w=majority&appName=ExpenseTracker
